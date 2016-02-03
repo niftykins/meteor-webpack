@@ -1,0 +1,13 @@
+.DS_Store
+*.sublime*
+.demeteorized
+
+npm-debug.log
+node_modules
+packages/*/.npm
+
+dump
+
+settings.json
+settings.dev.json
+settings.prod.json
