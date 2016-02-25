@@ -12,7 +12,7 @@
 		"Assets": true,
 		"Meteor": true,
 		"Mongo": true,
-		"Session": true,
+		"ReactiveDict": true,
 		"Accounts": true,
 		"Random": true,
 		"Match": true,
